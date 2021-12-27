@@ -15,7 +15,7 @@ VSCODE </br>
 </br>
 </br>
 
-## Entre em Contato Comigo
+## Você me encontra em
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maykesilva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mayke.ns@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/maykesilva7/)
