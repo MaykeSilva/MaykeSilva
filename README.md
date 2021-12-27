@@ -14,10 +14,6 @@ Eu sou **Mayke Silva**, moro em Fortaleza/CE. Atualmente **estudo Ciência de Da
 <img src="https://user-images.githubusercontent.com/92809543/147506952-a82aa3f8-0ab6-4223-8e77-a42fffe50e4b.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147506902-5b6a4c6a-2d11-43b0-bcbc-3e587331f18f.png" width="80" height=80"/>
 </div>
-
-</br>
-
-
 </br>
 
 ## Você me encontra em 
