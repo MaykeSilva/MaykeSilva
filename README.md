@@ -5,13 +5,7 @@ Eu sou **Mayke Silva**, moro em Fortaleza/CE. Atualmente **estudo Ciência de Da
 </br>
 
 ## Tecnologias 💻
-PYTHON </br>
-PANDAS </br>
-SQL </br>
-EXCEL VBA </br>
-POWER BI </br>
-QLIK VIEW </br>
-VSCODE
+| PYTHON | PANDAS | SQL | EXCEL VBA | POWER BI | QLIK VIEW | VSCODE
 </br>
 </br>
 
