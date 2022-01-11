@@ -1,6 +1,5 @@
 # Olá, seja bem-vindo 👋
 
-<!-- Eu sou **Mayke Silva**, moro em Fortaleza/CE. Atualmente **estudo Ciência de Dados**. Sou maluco por programação e visualização de dados e encontrei na Ciência de dados a junção dessas duas coisas. --!>
 </br>
 </br>
 
@@ -24,4 +23,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/maykesilva7/)
 [![Instagram Badge](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585986903099&text=oi)
 
-<!-- | PYTHON | PANDAS | SQL | EXCEL VBA | POWER BI | QLIK VIEW | VSCODE --!>
+<!-- | PYTHON | PANDAS | SQL | EXCEL VBA | POWER BI | QLIK VIEW | VSCODE 
+Eu sou **Mayke Silva**, moro em Fortaleza/CE. Atualmente **estudo Ciência de Dados**. Sou maluco por programação e visualização de dados e encontrei na Ciência de dados a junção dessas duas coisas.
+--!>
