@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo 👋
 
-Eu sou **Mayke Silva**, moro em Fortaleza/CE. Atualmente **estudo Ciência de Dados**. Sou maluco por programação e visualização de dados e encontrei na Ciência de dados a junção dessas duas coisas.
+<!-- Eu sou **Mayke Silva**, moro em Fortaleza/CE. Atualmente **estudo Ciência de Dados**. Sou maluco por programação e visualização de dados e encontrei na Ciência de dados a junção dessas duas coisas. --!>
 </br>
 </br>
 
