@@ -19,10 +19,10 @@
 
 ## Você me encontra em 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maykesilva/)
+[![HackerRank Badge](https://img.shields.io/badge/-RackerRank-grey?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mayke_ns)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mayke.ns@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/maykesilva7/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585986903099&text=oi)
-[![HackerRank Badge](https://img.shields.io/badge/-RackerRank-grey?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mayke_ns)
 [![Skoob Badge](https://img.shields.io/badge/-Skoob-darkblue?style=flat&logo=Skoob&logoColor=white)](https://skoob.com.br/usuario/5352484)
 
 
