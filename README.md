@@ -1,4 +1,20 @@
 # Olá, seja bem-vindo 👋
+Atualmente estudando Data Science. Aprofundando-me em Data Analysis com Python, Power BI, SQL e estatística.</br>
+Formado em Administração de Empresas e Pós Graduado em Gestão de Negócios.</br>
+</br>
+</br>
+
+## Tenho estudado  
+<div>
+Ciência de Dados (Classificação/Regresssão);</br>
+Análise de Dados;</br>
+Power BI;</br>
+Linguagem Python para análise de dados;</br>
+Estatística;</br>
+Data Cleaning e Data Wrangling;</br>
+Data Visualization e Data Storytelling;</br>
+Bancos de Dados mySQL e SQL Server;</br>
+Linguagem SQL;</br>
 
 </br>
 </br>
