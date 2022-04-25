@@ -9,7 +9,9 @@ Formado em Administração de Empresas e Pós Graduado em Gestão de Negócios.<
 Ciência de Dados (Classificação/Regresssão);</br>
 Análise de Dados;</br>
 Power BI;</br>
-Linguagem Python para análise de dados;</br>
+DAX;</br>
+Qlik;</br>
+Python para análise de dados;</br>
 Estatística;</br>
 Data Cleaning e Data Wrangling;</br>
 Data Visualization e Data Storytelling;</br>
